@@ -5,7 +5,6 @@ import requests, re, os, time
 from glob import iglob
 
 os.sys.path.append(r'C:\Users\Sid\Documents\GitHub\PhoneExtractor')
-os.sys.path.append(r'C:\Python27\Scripts\Experiments\databases')
 os.sys.path.append(r'C:\Users\Sid\Documents\GitHub\TableManager')
 import canonization, export_classes
 from lxml import html
